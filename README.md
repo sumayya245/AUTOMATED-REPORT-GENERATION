@@ -38,3 +38,5 @@
    Once the PDF is created, you can open it using a PDF viewer (e.g., Adobe Reader or a web browser) to confirm the content.
 
 **OUTPUT**:
+
+<img width="1890" height="991" alt="Image" src="https://github.com/user-attachments/assets/3ec011fb-7a1a-4807-a632-0e406b28c70a" />
